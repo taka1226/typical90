@@ -10,9 +10,7 @@ overflow https://atcoder.jp/contests/abc169/tasks/abc169_b
 
 006
 018
-020
 022
-024
 026
 027
 028
